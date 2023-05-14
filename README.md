@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm esson</h1>
 <h3 align="center">A (soon to be) cloud engineer</h3>
 
-- 🔭 I’m currently working on **secret sauce**
+- 🔭 I’m currently working on: **secret sauce**
 
-- 🌱 I’m currently learning **golang**
+- 🌱 I’m currently learning: **golang**
 
-- 📫 How to reach me **esson@riseup.net**
+- 📫 Contact me at: **esson@riseup.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
