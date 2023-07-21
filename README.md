@@ -67,6 +67,7 @@
 
 <br/>  
 
+## Spotify
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=trolpolska&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=trolpolska&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" /></div>  
 
 <br/>  
