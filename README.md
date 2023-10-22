@@ -1,18 +1,7 @@
 
 ### <div align="center">welcome to my github page :)</div>  
-  
-
-- 🔭 currently working on secret sauce  
-  
-
-- 🌱 currently learning golang  
-  
-
-- ❓ ask me about anything cloud infrastructure related :)  
-  
 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
